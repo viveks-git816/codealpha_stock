@@ -1,0 +1,4 @@
+Stock Portfolio Summary
+S: 25 shares × $500.0 = $12500.0
+
+Total Investment: $12500.0
